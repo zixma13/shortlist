@@ -1,0 +1,63 @@
+{
+  "buildId": "d4237b7057ff",
+  "valid": true,
+  "elapsedMs": 60008.30000000447,
+  "resolution": [
+    2560,
+    1440
+  ],
+  "quality": "high",
+  "detail": 1,
+  "adaptive": false,
+  "dpr": 1,
+  "adapter": {
+    "vendor": "apple",
+    "architecture": "metal-3",
+    "device": "",
+    "description": ""
+  },
+  "focusAtStart": true,
+  "visible": "visible",
+  "averageFps": 79.4562035204982,
+  "frame": {
+    "samples": 4768,
+    "meanMs": 12.58554972038173,
+    "p50Ms": 16,
+    "p95Ms": 16.700000762939453,
+    "p99Ms": 17.200000762939453,
+    "maxMs": 25
+  },
+  "gpu": {
+    "samples": 4765,
+    "meanMs": 11.461510562096162,
+    "p50Ms": 11.927552223205566,
+    "p95Ms": 14.090239524841309,
+    "p99Ms": 14.942208290100098,
+    "maxMs": 15.925248146057129
+  },
+  "renderSubmission": {
+    "samples": 4768,
+    "meanMs": 0.06958892592697735,
+    "p50Ms": 0.09999999403953552,
+    "p95Ms": 0.20000000298023224,
+    "p99Ms": 0.20000000298023224,
+    "maxMs": 0.4000000059604645
+  },
+  "startupMs": 2244,
+  "hardware": {
+    "cpu": "Apple M5 Pro",
+    "ramBytes": 51539607552,
+    "macOS": "27.2.1"
+  },
+  "size": {
+    "buildId": "d4237b7057ff",
+    "date": "2026-11-17",
+    "htmlBytes": 121116,
+    "gzipBytes": 47315,
+    "brotliBytes": 41552,
+    "runtimeDependencies": 0,
+    "externalAssets": 0
+  },
+  "audio": "off during fixed benchmark",
+  "browser": "Codex in-app browser"
+}

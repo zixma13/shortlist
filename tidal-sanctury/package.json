@@ -1,0 +1,1 @@
+{"name":"tidal-sanctuary","version":"0.1.0","private":true,"type":"module","scripts":{"build":"node source/build.mjs","build:dev":"node source/build.mjs --dev","build:readable":"node source/build.mjs --readable","check":"node scripts/check.mjs"}}

@@ -1,0 +1,31 @@
+{
+  "demos": [
+    {
+      "slug": "tidal-sanctury",
+      "title": "Tidal Sanctuary",
+      "description": "From a sunlit cove to swaying kelp, a forgotten wreck, and a luminous underwater grotto. One continuous world, made entirely from code.",
+      "preview": "tidal-sanctury/preview.jpg",
+      "tags": [
+        "Procedural worlds",
+        "WebGPU",
+        "Single HTML"
+      ],
+      "requirements": "Requires a browser with WebGPU \u00b7 keyboard and mouse recommended",
+      "htmlBytes": 121116,
+      "license": "MIT"
+    },
+    {
+      "slug": "mist",
+      "title": "The Mist",
+      "description": "A mist-filled street, procedural lighting and synthesized sound in a single 6.3 KB HTML file.",
+      "tags": [
+        "WebGL2",
+        "Procedural fog",
+        "6.3 KB"
+      ],
+      "requirements": "Requires WebGL2",
+      "htmlBytes": 6296,
+      "preview": "mist/preview.jpg"
+    }
+  ]
+}

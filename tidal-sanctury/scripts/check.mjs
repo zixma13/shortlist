@@ -1,0 +1,10 @@
+import {readFileSync,readdirSync} from 'node:fs';
+import {execFileSync} from 'node:child_process';
+import assert from 'node:assert/strict';
+for(const f of readdirSync('source/src').filter(f=>f.endsWith('.js')))execFileSync(process.execPath,['--check','source/src/'+f]);
+const html=readFileSync('index.html','utf8');
+assert(!/<script[^>]+src=|<link[^>]+href=.*(?:css|fonts)/i.test(html),'Standalone file must not require runtime scripts/styles');
+assert(html.includes('MIT License')&&html.includes('Maksymilian Dendura'),'Upstream permission notice must ship inline');
+assert(html.includes('Tidal')||html.includes('TIDAL'),'Scene identity missing');
+assert(Buffer.byteLength(html)<140000,'Standalone scene exceeds the 140KB scene budget');
+console.log('Source syntax, inline notice, zero external runtime assets and HTML size budget passed.');
