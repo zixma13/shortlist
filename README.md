@@ -8,7 +8,7 @@ A growing collection of self-contained browser demos and rendering experiments. 
 |---|---|---|---:|
 | [Tidal Sanctuary](tidal-sanctury/README.md) | [Open](https://zixma13.github.io/shortlist/tidal-sanctury/) | WebGPU procedural coastal/underwater world |121116bytes|
 | [The Mist](mist/README.md) | [Open](https://zixma13.github.io/shortlist/mist/) | WebGL2 procedural fog, lighting and synthesized sound |6296bytes|
-| [Arcane Chant 3D](arcane-chant-3d/README.md) | [Open](https://zixma13.github.io/shortlist/arcane-chant-3d/) | WebGL Three.js 3D arena, Web Speech API voice casting & Web Audio |831582bytes|
+| [Arcane Chant 3D](arcane-chant-3d/README.md) | [Open](https://zixma13.github.io/shortlist/arcane-chant-3d/) | 3D JRPG (village, world map, dungeon), weapons, Web Speech API voice casting & Web Audio |944487bytes|
 
 ## Local preview
 

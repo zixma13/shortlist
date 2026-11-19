@@ -30,16 +30,16 @@
     {
       "slug": "arcane-chant-3d",
       "title": "Arcane Chant 3D",
-      "description": "Speak Thai incantations and shout Fireball in a 3D mystic arena, upgrading through 9 grimoire volumes from 10m slow chants to instant 20m solar blasts.",
+      "description": "A 3D voice-spellcasting JRPG: explore Ignis Village, talk to NPCs, roam the Ashen Overworld, raid the Obsidian Dungeon, and upgrade Fireball Vol. 1 to Vol. 9.",
       "preview": "arcane-chant-3d/preview.jpg",
       "tags": [
-        "WebGL2",
+        "3D JRPG",
         "Three.js",
         "Web Speech API",
         "Single HTML"
       ],
-      "requirements": "Requires WebGL2 · Microphone (Chrome / Edge / Safari) or keyboard fallback",
-      "htmlBytes": 831582,
+      "requirements": "Requires WebGL2 \u00b7 Microphone (Chrome / Edge / Safari) or keyboard fallback",
+      "htmlBytes": 944487,
       "license": "MIT"
     }
   ]
