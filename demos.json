@@ -26,6 +26,21 @@
       "requirements": "Requires WebGL2",
       "htmlBytes": 6296,
       "preview": "mist/preview.jpg"
+    },
+    {
+      "slug": "arcane-chant-3d",
+      "title": "Arcane Chant 3D",
+      "description": "Speak Thai incantations and shout Fireball in a 3D mystic arena, upgrading through 9 grimoire volumes from 10m slow chants to instant 20m solar blasts.",
+      "preview": "arcane-chant-3d/preview.jpg",
+      "tags": [
+        "WebGL2",
+        "Three.js",
+        "Web Speech API",
+        "Single HTML"
+      ],
+      "requirements": "Requires WebGL2 · Microphone (Chrome / Edge / Safari) or keyboard fallback",
+      "htmlBytes": 831582,
+      "license": "MIT"
     }
   ]
 }

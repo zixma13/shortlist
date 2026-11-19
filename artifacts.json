@@ -7,5 +7,9 @@
   "mist": {
     "bytes": 6296,
     "sha256": "1b8428c74fceacbecd138f014b46e89e3e8156f928fe3f1362e5ab4aa2664574"
+  },
+  "arcane-chant-3d": {
+    "bytes": 831582,
+    "sha256": "8eb64ada004482fb74421908920b0df513747f0d1e2cf92b0c2a183724b0187b"
   }
 }

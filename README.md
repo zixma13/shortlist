@@ -8,6 +8,7 @@ A growing collection of self-contained browser demos and rendering experiments. 
 |---|---|---|---:|
 | [Tidal Sanctuary](tidal-sanctury/README.md) | [Open](https://zixma13.github.io/shortlist/tidal-sanctury/) | WebGPU procedural coastal/underwater world |121116bytes|
 | [The Mist](mist/README.md) | [Open](https://zixma13.github.io/shortlist/mist/) | WebGL2 procedural fog, lighting and synthesized sound |6296bytes|
+| [Arcane Chant 3D](arcane-chant-3d/README.md) | [Open](https://zixma13.github.io/shortlist/arcane-chant-3d/) | WebGL Three.js 3D arena, Web Speech API voice casting & Web Audio |831582bytes|
 
 ## Local preview
 
@@ -35,5 +36,7 @@ The Git repository root is shortlist/; individual demo folders are not nested Gi
 [Ultra-Water](https://github.com/Humpalumps/Ultra-Water) by **Humpalumps** informed earlier research into efficient ocean rendering. Its code and FFT implementation are **not bundled in Tidal Sanctuary**; the demo's water uses analytic waves.
 
 **The Mist** was supplied by **Apisak Musikapan** as an original standalone HTML study. No additional upstream source was declared in the supplied file. See its [source notices](mist/THIRD_PARTY_NOTICES.md).
+
+**Arcane Chant 3D** is an original standalone voice-spellcasting 3D arena created by **Apisak Musikapan**, bundling **Three.js r170** (MIT License) with procedural textures, particles and synthesized Web Audio sound effects. See its [source notices](arcane-chant-3d/THIRD_PARTY_NOTICES.md).
 
 The repository's original contributions use [MIT](LICENSE). Third-party work retains its own notices and licenses. Each future demo must document its actual sources; research inspiration and adapted code should be credited distinctly.
